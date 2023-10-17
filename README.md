@@ -9,16 +9,18 @@
 
 - Asset 폴더에 사용된 애셋들을 담아두었습니다  
 
+<br>
 
 ### [조작법]  
 이동 : WASD / 방향키  
 점프 : Space 바  
 
+<br>
 
 ### [프로젝트 보고서]
 https://docs.google.com/viewer?url=https://github.com/Seon-dongun/UE5_Project_JumpUp/raw/main/UE5_JumpUp_보고서.pdf
 
-
+<br>
 
 ### [시연 영상]  
 https://youtu.be/JNMEjwlrVzY?si=dJx9KRKFAqftg9tk
